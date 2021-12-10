@@ -1,0 +1,2 @@
+D:\VS项目\StaticMath\Debug\MathLibrary.pdb
+D:\VS项目\StaticMath\MathLibrary\Debug\MathLibrary.pdb
